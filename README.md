@@ -7,3 +7,4 @@ Autorem projektu jest **Wojciech Kalita**
 Nauka git-a
 
 To ciekawy program
+Super Wojtek Ci idzie 
